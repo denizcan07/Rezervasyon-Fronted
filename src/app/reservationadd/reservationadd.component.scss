@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar {
+    margin-bottom: 0; /* Navbar ile form arasındaki boşluğu sıfırla */
+  }
+
+  .container {
+    margin-top: 30px; /* Form için üstten biraz boşluk bırak */
+  }
+
+  .navbar-brand {
+    font-size: 1.2rem;
+  }
+
+  .submit-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .submit-btn:hover {
+    background-color: #218838;
+  }
+
+  .form-container {
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }

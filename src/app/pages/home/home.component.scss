@@ -1,0 +1,22 @@
+.custom-data-grid {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    overflow-x: auto;
+    margin: 0 auto;
+  }
+  
+  .custom-data-grid .dx-header-row {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .custom-data-grid .dx-row:hover {
+    background-color: #e3f2fd;
+  }
+  
+  .custom-data-grid .dx-scrollable-scrollbar {
+    background-color: #007bff;
+  }
+  
